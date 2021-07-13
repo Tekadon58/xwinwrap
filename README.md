@@ -9,7 +9,10 @@ Gif as a background:
 Video as a background (it is much smoother than the gif would make it appear):
 
 ![demo gif](https://github.com/aaahh/xwinwrap/blob/master/examples/demo-video.gif)
-
+# Requirements
+```
+gifview and mpv
+```
 ### Installing
 
 ```
